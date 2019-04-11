@@ -1,0 +1,4 @@
+---
+uint8 gripper_status
+uint8 motion_status
+uint8 gripper_mode

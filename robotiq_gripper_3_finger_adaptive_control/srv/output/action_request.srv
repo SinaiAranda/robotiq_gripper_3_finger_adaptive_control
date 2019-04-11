@@ -1,0 +1,6 @@
+bool gripper_status
+int8 gripper_mode
+bool go_to
+bool automatic_release
+---
+bool success

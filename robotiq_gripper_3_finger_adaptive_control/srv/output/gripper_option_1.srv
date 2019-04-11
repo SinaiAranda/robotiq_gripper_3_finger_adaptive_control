@@ -1,0 +1,4 @@
+bool individual_control_fingers_mode
+bool individual_control_scissor
+---
+bool success
